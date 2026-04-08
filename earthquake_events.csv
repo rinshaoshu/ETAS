@@ -1,0 +1,15 @@
+type,name,lon,lat,mag_type,magnitude,time,end
+subduction_zone,Japan_2011,142.37,38.32,mw,9.0,2011-03-11,2011-03-26
+subduction_zone,Indonesia_2004,95.98,3.30,mw,9.3,2004-12-26,2005-01-10
+subduction_zone,Chile_2010,-72.71,-35.85,mw,8.8,2010-02-27,2010-03-14
+subduction_zone,Chile_1960,-73.41,-38.14,mw,9.5,1960-05-22,1960-06-06
+subduction_zone,Taiwan_2024,121.74,23.81,mw,7.4,2024-04-03,2024-04-18
+strike_slip,SanFrancisco_1906,-122.55,37.75,mw,7.9,1906-04-18,1906-05-03
+strike_slip,Kunlun_2001,90.90,36.20,mw,7.8,2001-11-14,2001-11-29
+strike_slip,Yushu_2010,96.70,33.10,mw,6.9,2010-04-14,2010-04-29
+strike_slip,Luding_2022,102.08,29.59,mw,6.7,2022-09-05,2022-09-20
+strike_slip,Turkey_1999,29.87,40.75,mw,7.6,1999-08-17,1999-09-01  
+intracontinental,Wenchuan_2008,103.40,31.00,mw,7.9,2008-05-12,2008-05-27
+intracontinental,Tangshan_1976,118.03,39.52,mw,7.5,1976-07-28,1976-08-12
+intracontinental,Lushan_2013,103.00,30.30,mw,6.7,2013-04-20,2013-05-05
+intracontinental,Bam_Iran_2003,58.30,29.00,mw,6.6,2003-12-26,2004-01-10
